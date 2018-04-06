@@ -1,0 +1,12 @@
+{
+	"name": "Eloquent ORM Auditing Without Laravel",
+	"version": "0.1.0",
+    "require": {
+        "illuminate/support": "5.*",
+        "illuminate/database": "5.*",
+        "illuminate/events": "5.*"
+    },
+    "autoload": {
+        "psr-4": {"Model\\": "src/Model"}
+    }
+}
