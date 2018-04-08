@@ -1,7 +1,9 @@
 {
-	"name": "Eloquent ORM Auditing Without Laravel",
+    "name": "andreluizsr/eloquent-orm-auditing-without-laravel",
+	"description": "Eloquent ORM Auditing Without Laravel",
 	"version": "0.1.0",
     "require": {
+        "php": "^5.6.3 || ^7.0",
         "illuminate/support": "5.*",
         "illuminate/database": "5.*",
         "illuminate/events": "5.*"
