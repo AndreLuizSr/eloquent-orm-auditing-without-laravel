@@ -1,5 +1,5 @@
 # Eloquent ORM Auditing without Laravel (or framework)
-Sometimes I development small applications which I only use Eloquent ORM (https://github.com/illuminate/database) and, sometimes I need implement auditing.
+Sometimes when you develop small applications and you use Eloquent ORM (https://github.com/illuminate/database), you need to implement auditing system.
 
-For this, I needed use Illuminate Events (https://github.com/illuminate/events) and development small trait and associate this to all models.
+For this, I used Illuminate Events (https://github.com/illuminate/events), developt small trait and associate this to all models.
 
